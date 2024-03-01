@@ -10,7 +10,7 @@ int main() {
     digitCounter(n);
     return 0;
 }
-
+ 
 int counter = 0;
 void digitCounter(int x) {
     if (x <= 0) {
