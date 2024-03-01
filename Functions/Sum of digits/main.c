@@ -11,6 +11,7 @@ int main()
 	printf("sum of entered digits are = %d ",result);
 	return 0;
 }
+
 int sumOfDigits(int x){
 	if(x<=0)
 	return 0;
