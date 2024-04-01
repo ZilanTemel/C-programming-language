@@ -19,7 +19,7 @@ int main()
      
     result=CalcuOfPower(n,pwr);
      
-    printf(" The value of %d to the power of %d is : %ld\n\n",n,pwr,result);
+    printf(" The value of %d to the power of %d is : %d\n\n",n,pwr,result);
      
     return 0;
 }
