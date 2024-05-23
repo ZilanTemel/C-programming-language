@@ -7,6 +7,7 @@ void sumNumbers() {
 
     file = fopen("numbers.txt", "r");
     if (file == NULL) {
+        printf("File could not be opened!\n");
         return;
     }
 
